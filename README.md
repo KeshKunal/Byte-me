@@ -47,9 +47,11 @@ Current firmware includes a rapid demo profile and a 20-minute study profile via
 
 ## Gallery
 
-| Hardware Layout | Dashboard Interface | Live Demo |
+### Circuit Breadboard Views
+
+| Breadboard View 1 | Breadboard View 2 | Breadboard View 3 |
 |---|---|---|
-| ![Hardware Layout](Hardware_Layout.jpg) | ![Dashboard Interface](Dashboard_Interface.jpg) | ![Project Demo](Project_Demo.gif) |
+| ![Breadboard View 1](public/img1.jpeg) | ![Breadboard View 2](public/img2.jpeg) | ![Breadboard View 3](public/img3.jpeg) |
 
 ## Tech Stack
 
